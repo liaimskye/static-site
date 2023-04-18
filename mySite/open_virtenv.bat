@@ -1,0 +1,1 @@
+workon my_django
